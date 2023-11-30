@@ -1,6 +1,7 @@
 # POSCAR3D
 
-![POSCAR3D Visualization](https://github.com/shahabafshar/POSCAR3D/assets/POSCAR3D.gif)
+
+![POSCAR3D Visualization](https://raw.githubusercontent.com/shahabafshar/POSCAR3D/main/assets/POSCAR3D.gif?token=GHSAT0AAAAAACHL7Z2L2DRLY6SLSRLZPUYGZLIEDCQ)
 
 ### Description
 POSCAR3D is an intuitive, user-friendly tool designed to visualize POSCAR files in a realistic 3D environment. Created through a collaboration between myself and my wife, Zeinab Hajalifard, a Ph.D. student at ISU, this tool aims to assist researchers and students in viewing their POSCAR files with actual van der Waals radii of the atoms. This not only enhances the understanding of molecular structures but also adds an element of fun to the visualization process.
